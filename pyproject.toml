@@ -1,0 +1,9 @@
+[project]
+name = "ai-learning-sandbox"
+version = "0.1.0"
+description = "Experimentation with embeddings, RAG, and GenAI foundations"
+dependencies = [
+    "openai",
+    "tiktoken",
+    "python-dotenv"
+]
